@@ -8,9 +8,9 @@
 
 __PRINCÍPIOS DE SEGURANÇA__
 
-- [Segurança de Redes] 
+- [Segurança de Redes](https://github.com/Patolinoomago/TCC#Segurança de Redes)
 
-- [Tipos de Segurança e Controle de Acesso] 
+- [Tipos de Segurança e Controle de Acesso](https://github.com/Patolinoomago/TCC#Tipos de Segurança e Controle de Acesso)
 
 - [Mecanismos de Autenticação] 
 
