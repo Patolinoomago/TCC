@@ -1,4 +1,4 @@
-<p >
+<p  align="center">
   # TCC
 </p>
 <p  align="center">
