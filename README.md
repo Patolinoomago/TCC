@@ -1,4 +1,4 @@
-<h3>TCC<h3>  
+<h1>TCC<h1>  
 <img src="https://ead.fieg.com.br/pluginfile.php/1/theme_moove/logo/1676653367/logoSesiSenai%20%281%29.png">
 <h2>Esse é um trabalho desenvolvido pela Turma de Redes da FATESG</h2>
 
