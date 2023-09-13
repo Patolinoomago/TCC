@@ -4,16 +4,16 @@
 
 __PRINCÍPIOS DE SEGURANÇA__
 
-- [ ]Segurança de Redes
+- [X] Segurança de Redes
 
-- [ ]Segurança Física, Lógica e Controle de Acesso
+- [X] Segurança Física, Lógica e Controle de Acesso
 
-- [ ]Mecanismos de Autenticação
+- [X] Mecanismos de Autenticação
 
-- [ ]Biometria
+- [X] Biometria
 
-- [ ]Princípios de Normas e Padrões
+- [X] Princípios de Normas e Padrões
 
-- [ ]Gerência de Riscos
+- [X] Gerência de Riscos
 
-- [ ]SDL
+- [X] SDL
