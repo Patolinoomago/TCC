@@ -8,16 +8,16 @@
 
 __PRINCÍPIOS DE SEGURANÇA__
 
-- [Segurança de Redes](https://github.com/Patolinoomago/TCC#Segurança de Redes)
+[Segurança de Redes](https://github.com/Patolinoomago/TCC/blob/main/#Segurança-de-Redes)
 
-- [Tipos de Segurança e Controle de Acesso](https://github.com/Patolinoomago/TCC#Tipos de Segurança e Controle de Acesso)
+- [Tipos de Segurança e Controle de Acesso](https://github.com/Patolinoomago/TCC/blob/main/#Tipos-de-Segurança-e-Controle-de-Acesso)
 
-- [Mecanismos de Autenticação] 
+- [Mecanismos de Autenticação](https://github.com/Patolinoomago/TCC/blob/main/#Mecanismos-de-Autenticação)
 
-- [Biometria] 
+- [Biometria](https://github.com/Patolinoomago/TCC/#Biometria)
 
-- [Princípios de Normas e Padrões] 
+- [Princípios de Normas e Padrões](https://github.com/Patolinoomago/TCC/blob/main/#Princípios-de-Normas-e-Padrões)
 
-- [Gerência de Riscos] 
+- [Gerência de Riscos](https://github.com/Patolinoomago/TCC/blob/main/#Gerência-de-Riscos)
 
-- [SDL]
+- [SDL](https://github.com/Patolinoomago/TCC/SDL)
