@@ -4,11 +4,11 @@
 <p align="center">
 <img src="https://ead.fieg.com.br/pluginfile.php/1/theme_moove/logo/1676653367/logoSesiSenai%20%281%29.png">
 </p>
-<h2>align="center">Esse é um trabalho desenvolvido pela Turma de Redes da FATESG</h2>
+<h2> align="center">Esse é um trabalho desenvolvido pela Turma de Redes da FATESG</h2>
 
 __PRINCÍPIOS DE SEGURANÇA__
 
-[Segurança de Redes](https://github.com/Patolinoomago/TCC/blob/main/#Segurança-de-Redes)
+- [Segurança de Redes](https://github.com/Patolinoomago/TCC/blob/main/#Segurança-de-Redes)
 
 - [Tipos de Segurança e Controle de Acesso](https://github.com/Patolinoomago/TCC/blob/main/#Tipos-de-Segurança-e-Controle-de-Acesso)
 
