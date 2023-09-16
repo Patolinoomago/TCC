@@ -25,7 +25,7 @@
 
 <h4>Quando Pensamos em Segurança de Redes, um dos conceitos importantes a ser analisados é o conceito atacante.</h4>
 
-<img id="91e1e380-a523-11ea-b515-25d485d2065a" alt="The figure depicts a hand-drawn Venn diagram consisting of three circles. The circles are labeled Threat, Asset, and Vulnerability. The intersection of the three circles is labeled Risk." src="/courses/netsec/1ec60790-e25a-11ea-8867-c195da2dcdca/67820fb0-e723-11ea-8f7f-49333a9f5cc7/assets/91e1e380-a523-11ea-b515-25d485d2065a.jpg" style="width: 100%; height: 100%;">
+<img id="91e1e380-a523-11ea-b515-25d485d2065a" src="/courses/netsec/1ec60790-e25a-11ea-8867-c195da2dcdca/67820fb0-e723-11ea-8f7f-49333a9f5cc7/assets/91e1e380-a523-11ea-b515-25d485d2065a.jpg" style="width: 100%; height: 100%;">
 
 # Tipos de Segurança e Controle de Acesso
 
