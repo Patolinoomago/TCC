@@ -35,7 +35,20 @@
 | Superfície de ataque | Uma superfície de ataque é a soma total das vulnerabilidades em um determinado sistema que são acessíveis a um invasor. A superfície de ataque descreve diferentes pontos em que um invasor pode entrar em um sistema e onde ele pode obter dados do sistema. Por exemplo, o sistema operacional e o navegador da Web podem precisar de patches de segurança. Cada um deles é vulnerável a ataques e está exposto na rede ou na internet. Juntos, eles criam uma superfície de ataque que o ator ameaça pode explorar. |
 | Exploit | O mecanismo que é usado para alavancar uma vulnerabilidade para comprometer um ativo. As explorações podem ser remotas ou locais. Uma exploração remota é aquela que funciona através da rede sem qualquer acesso prévio ao sistema de destino. O invasor não precisa de uma conta no sistema final para explorar a vulnerabilidade. Em uma exploração local, o ator de ameaça tem algum tipo de acesso administrativo ou de usuário ao sistema final. Uma exploração local não significa necessariamente que o invasor tenha acesso físico ao sistema final. |
 | Risco | A probabilidade de uma determinada ameaça explorar uma vulnerabilidade específica de um ativo e resultar em uma consequência indesejável. | 	
+
+<h3> Conceito de Atacante</h3>
+
+# Ataque Interno
+
+Ataques Internos são realizados, dentro de um determinado ambiente, como por exemplo uma Empresa. 
+
+# Ataque Externo
+
+Ataques Externos são realizados de fora do ambiente que vai ser atacado.
+
 # Tipos de Segurança e Controle de Acesso
+
+
 
 # Mecanismos de Autenticação
 
