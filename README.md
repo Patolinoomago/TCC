@@ -36,13 +36,13 @@
 | Exploit | O mecanismo que é usado para alavancar uma vulnerabilidade para comprometer um ativo. As explorações podem ser remotas ou locais. Uma exploração remota é aquela que funciona através da rede sem qualquer acesso prévio ao sistema de destino. O invasor não precisa de uma conta no sistema final para explorar a vulnerabilidade. Em uma exploração local, o ator de ameaça tem algum tipo de acesso administrativo ou de usuário ao sistema final. Uma exploração local não significa necessariamente que o invasor tenha acesso físico ao sistema final. |
 | Risco | A probabilidade de uma determinada ameaça explorar uma vulnerabilidade específica de um ativo e resultar em uma consequência indesejável. | 	
 
-<h3> Conceito de Atacante</h3>
+<h1> Conceito de Atacante</h1>
 
-# Ataque Interno
+<h3> Ataque Interno </h3>
 
 Ataques Internos são realizados, dentro de um determinado ambiente, como por exemplo uma Empresa. 
 
-# Ataque Externo
+<h3> Ataque Externo </h3>
 
 Ataques Externos são realizados de fora do ambiente que vai ser atacado.
 
