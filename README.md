@@ -23,7 +23,7 @@
 
 # Segurança de Redes
 
-<h4>Quando Pensamos em Segurança de Redes, um dos conceitos importantes a ser analisados é o conceito atacante.</h4>
+<h4>Quando Pensamos em Segurança de Redes, Precisamos pensar em alguns conceitos importantes primeiro.</h4>
 <p align="center">
 <img src="https://itexamanswers.net/wp-content/uploads/2020/11/2020-11-18_220505.jpg">
 </p>
