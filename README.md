@@ -27,6 +27,7 @@
 <p align="center">
 <img src="https://itexamanswers.net/wp-content/uploads/2020/11/2020-11-18_220505.jpg">
 </p>
+
 # Tipos de Segurança e Controle de Acesso
 
 # Mecanismos de Autenticação
