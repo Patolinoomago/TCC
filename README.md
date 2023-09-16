@@ -29,10 +29,10 @@
 
 # Mecanismos de Autenticação
 
-#Biometria
+# Biometria
 
-#Princípio de Normas e Padrões
+# Princípio de Normas e Padrões
 
-#Gerência de Riscos
+# Gerência de Riscos
 
-#SDL
+# SDL
