@@ -7,16 +7,20 @@
 
 __PRINCÍPIOS DE SEGURANÇA__
 
-- [Segurança de Redes](https://www.vmware.com/br/topics/glossary/content/network-security.html#:~:text=A%20segurança%20de%20rede%20é%20o%20conjunto%20de%20estratégias%2C%20processos,modificar%20ou%20invadir%20uma%20rede.)
+- [Segurança de Redes](https://github.com/Patolinoomago/TCC/blob/main#Segurança-de-Redes)
 
-- [Tipos de Segurança e Controle de Acesso](https://www.trendmicro.com/pt_br/what-is/network-security/types-of-network-security.html)
+- [Tipos de Segurança e Controle de Acesso](https://github.com/Patolinoomago/TCC/blob/main#Tipos-de-Segurança-e-Controle-de-Acesso)
 
-- [Mecanismos de Autenticação](https://marceljm.com/seguranca-da-informacao/mecanismos-de-autenticacao/)
+- [Mecanismos de Autenticação](https://github.com/Patolinoomago/TCC/blob/main#Mecanismos-de-Autenticação)
 
-- [Biometria](https://www.projetoderedes.com.br/artigos/artigo_biometria_na_seguranca_das_redes.php)
+- [Biometria](https://github.com/Patolinoomago/TCC/blob/main#Biometria)
 
-- [Princípios de Normas e Padrões](https://danieldonda.com/padres-e-normas-relacionadas-segurana-da-informao/)
+- [Princípios de Normas e Padrões](https://github.com/Patolinoomago/TCC/blob/main#Princípios-de-Normas-e-Padrões)
 
-- [Gerência de Riscos](https://esr.rnp.br/governanca-de-ti/gestao-de-riscos-da-seguranca-da-informacao/)
+- [Gerência de Riscos](https://github.com/Patolinoomago/TCC/blob/main#Gerência-de-Riscos)
 
-- [SDL](https://pt.wikipedia.org/wiki/Ciclo_de_Vida_do_Desenvolvimento_Seguro)
+- [SDL](https://github.com/Patolinoomago/TCC/blob/main@SDL)
+
+# Segurança de Redes
+
+
