@@ -5,7 +5,7 @@
 <p align="center">
 <h2>Esse é um trabalho desenvolvido pela Turma de Redes da FATESG</h2>
 
-__PRINCÍPIOS DE SEGURANÇA__
+# PRINCÍPIOS DE SEGURANÇA
 
 - [Segurança de Redes](https://github.com/Patolinoomago/TCC/blob/main#Segurança-de-Redes)
 
@@ -19,8 +19,20 @@ __PRINCÍPIOS DE SEGURANÇA__
 
 - [Gerência de Riscos](https://github.com/Patolinoomago/TCC/blob/main#Gerência-de-Riscos)
 
-- [SDL](https://github.com/Patolinoomago/TCC/blob/main@SDL)
+- [SDL](https://github.com/Patolinoomago/TCC/blob/main#SDL)
 
 # Segurança de Redes
 
+<h2>Quando Pensamos em Segurança de Redes, Devemos nos atentar em relação a três fatores, os quais são conhecidos por AAA. Autenticação, Autorização</h2>
 
+# Tipos de Segurança e Controle de Acesso
+
+# Mecanismos de Autenticação
+
+#Biometria
+
+#Princípio de Normas e Padrões
+
+#Gerência de Riscos
+
+#SDL
