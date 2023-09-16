@@ -5,7 +5,7 @@
 <p align="center">
 <h2>Esse é um trabalho desenvolvido pela Turma de Redes da FATESG</h2>
 
-# PRINCÍPIOS DE SEGURANÇA
+# __PRINCÍPIOS DE SEGURANÇA__
 
 - [Segurança de Redes](https://github.com/Patolinoomago/TCC/blob/main#Segurança-de-Redes)
 
