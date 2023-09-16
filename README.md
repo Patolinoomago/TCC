@@ -23,7 +23,7 @@
 
 # Segurança de Redes
 
-<h4>Quando Pensamos em Segurança de Redes, Devemos nos atentar em relação a três fatores, os quais são conhecidos por AAA. Autenticação, Autorização</h4>
+<h4>Quando Pensamos em Segurança de Redes, um dos conceitos importantes a ser analisados é o conceito atacante.</h4>
 
 # Tipos de Segurança e Controle de Acesso
 
